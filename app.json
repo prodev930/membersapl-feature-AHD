@@ -1,0 +1,37 @@
+{
+  "name": "MEMBERS",
+  "displayName": "MEMBER S",
+  "intentFilters": [
+    {
+      "action": "VIEW",
+      "data": [
+        {
+          "schema": "https",
+          "host": "stage.mem-bers.jp",
+          "pathPrefix": "/chat/*"
+        }
+      ],
+      "category": [
+        "BROWSABLE",
+        "DEFAULT"
+      ]
+    },
+    {
+      "action": "VIEW",
+      "data": [
+        {
+          "schema": "mem-bers",
+          "host": "chat"
+        }
+      ],
+      "category": [
+        "BROWSABLE",
+        "DEFAULT"
+      ]
+    }
+  ],
+  "associatedDomains": [
+    "applinks:mem-bers.jp",
+    "applinks:stage.mem-bers.jp"
+  ]
+}

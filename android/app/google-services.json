@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "109376432217",
+    "project_id": "members-chat-6565f",
+    "storage_bucket": "members-chat-6565f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109376432217:android:be49b2c1a9edf52676e948",
+        "android_client_info": {
+          "package_name": "jp.aidma_hd.members"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109376432217-pnm8r2t0rv3f3chusg53tup8csjj7655.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCakUGT6juO6EqqN2t9VQO67sXrkn3yk1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109376432217-pnm8r2t0rv3f3chusg53tup8csjj7655.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "109376432217-h52k8rcep10nfgs6147o3ld1dc0d538v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.aidma-hd.members",
+                "app_store_id": "1625278160"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
